@@ -1,0 +1,487 @@
+
+/*
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+*/
+
+body {
+	background-color: #ffbb33;
+	margin:50px;
+
+
+}
+
+h1, h2, h3 {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p, ul, ol {
+
+	line-height: 180%;
+}
+
+ul, ol {
+}
+
+a {
+	color: #4d4d33;
+	text-decoration:none;
+
+	
+
+
+}
+
+a:hover {
+ 	background-color: #f2f2f2;
+ 	padding: 10px;
+ 	border-radius: 5px;
+}
+
+#wrapper {
+}
+
+.container {
+
+}
+
+/* Header */
+
+#header-wrapper {
+	overflow: hidden;
+
+
+}
+
+#header {
+	overflow: hidden;
+
+
+}
+
+/* Logo */
+
+#logo {
+	margin-left: 50px;
+
+}
+
+#logo h1, #logo p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#logo h1 {
+	line-height: 120px;
+	letter-spacing: -2px;
+
+}
+
+#logo h1 a {
+	color: #331a00;
+
+}
+
+#logo p {
+
+	letter-spacing: -1px;
+
+}
+
+#logo p a {
+
+}
+
+#logo a {
+
+}
+
+/* Splash */
+
+#splash {
+
+}
+
+/* Search */
+
+#search {
+
+}
+
+#search form {
+
+}
+
+#search fieldset {
+
+}
+
+#search-text {
+
+}
+
+#search-submit {
+
+}
+
+/* Menu */
+
+#menu {
+
+
+}
+
+#menu ul {
+
+	list-style: none;
+	line-height: normal;
+	text-align: right;
+}
+
+#menu li {
+		display: inline-block;
+
+
+}
+
+#menu a {
+	display: block;
+	margin-right: 1px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #12212F;
+	rder: none;
+
+
+}
+
+#menu a:hover, #menu .current_page_item a {
+
+}
+
+#menu .current_page_item a {
+
+}
+
+/* Page */
+
+#page {
+	
+
+
+}
+
+/* Content */
+
+#content {
+	width: 65%;
+	float: left;
+
+}
+
+.post {
+	overflow: hidden;
+
+}
+
+.post .title {
+	margin-left: 30px;
+	
+	letter-spacing: -1px;
+}
+
+.post .title a {
+
+}
+
+.post .meta {
+
+}
+
+.post .meta .date {
+
+}
+
+.post .meta .posted {
+
+}
+
+.post .meta a {
+}
+
+.post .entry {
+
+}
+
+.links {
+
+}
+
+.more {
+
+}
+
+.comments {
+
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 30%;
+	
+	
+
+}
+
+#sidebar ul {
+
+}
+
+#sidebar li {
+
+}
+
+#sidebar li ul {
+
+}
+
+#sidebar li li {
+	line-height: 40px;
+
+}
+
+#sidebar li li span {
+
+}
+
+#sidebar li li a {
+
+	
+
+}
+
+#sidebar h2 {
+
+	letter-spacing: -.5px;
+
+}
+
+#sidebar p {
+
+}
+
+#sidebar a {
+
+}
+
+#sidebar a:hover {
+
+}
+
+/* Calendar */
+
+#calendar {
+}
+
+#calendar_wrap {
+
+}
+
+#calendar table {
+
+}
+
+#calendar tbody td {
+
+}
+
+#calendar #next {
+
+}
+
+/* Three Column Footer Content */
+
+#footer-content-wrapper {
+	padding: 50px;
+
+}
+
+#footer-content {
+	overflow: hidden;
+
+}
+
+#footer-content h2 {
+
+}
+
+#footer-content a {
+}
+
+#footer-bg {
+
+}
+
+#footer-content h2 {
+
+}
+
+#footer-content #fbox1 {
+	width: 33%;
+	float: left;
+
+}
+
+#footer-content #fbox2 {
+	width: 33%;
+	float: left;
+}
+
+#footer-content #fbox3 {
+	width: 33%;
+	float: right;
+}
+
+#footer-content a {
+}
+
+#column1 {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	float: left;
+	width: 33%;
+
+
+}
+
+#column2 {
+   font-family: 'Ubuntu', sans-serif;
+   text-align: center;
+	float: right;
+	width: 33%;
+	
+}
+
+#column3 {
+	
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	float: left;
+	width: 33%;
+
+	
+}
+
+/* Footer */
+
+#footer {
+	text-align: center;
+
+}
+
+#footer p {
+
+}
+
+#footer a {
+
+}
+
+#banner {
+	text-align: center;
+
+
+}
+
+#banner .content {
+
+
+}
+
+.list-style1 {
+
+}
+
+.list-style1 a {
+
+}
+
+/** LIST STYLE 1 */
+
+ul.style1 {
+
+}
+
+ul.style1 li {
+
+	line-height: 160%;
+}
+
+ul.style1 a {
+
+}
+
+ul.style1 a:hover {
+	background-color: #f2f2f2;
+
+}
+
+ul.style1 .first {
+
+}
+
+#featured-content {
+	overflow: hidden;
+
+}
+
+#featured-content h2 {
+
+}
+
+#featured-content #column1 {
+
+}
+
+#featured-content #column2 {
+
+}
+
+#featured-content #column3 {
+
+}
+
+.button a {
+	list-style: none;
+	line-height: normal;
+	text-align: right;
+
+}
+#about1{
+	text-align: center;
+	background-color: #ffdb94;
+	font-family: 'Archivo Narrow', sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
